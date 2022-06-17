@@ -1,0 +1,15 @@
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\PredvidjanjeZavrsneOcjene.exe.config
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\PredvidjanjeZavrsneOcjene.exe
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\PredvidjanjeZavrsneOcjene.pdb
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.csprojAssemblyReference.cache
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.Properties.Resources.resources
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.csproj.GenerateResource.cache
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.csproj.CoreCompileInputs.cache
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.csproj.CopyComplete
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.exe
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.pdb
+C:\Users\Mihael\Desktop\Ruap-seminar\PredvidjanjeZavrsneOcjene\obj\Debug\PredvidjanjeZavrsneOcjene.Form1.resources
